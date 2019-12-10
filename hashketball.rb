@@ -19,7 +19,7 @@ def game_hash
 
 
 
-  {:away => 
+  {:away =>
     {:teamname => "Brooklyn Nets"},
     {:colors => [Black, White]},
     {:players => [
